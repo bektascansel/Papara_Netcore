@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ql4VsoJAc4SZzI0KbpCPzXvybqBja74SltHLPM60Io3pvg5QDRbX13kBoCSYRcwmME8SMJvIF62S5Km3g/SZ3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CANSEL BEKTAŞ\\Documents\\PAPARA .NET CORE BOOTCAMP\\CanselBektas-Week2-Homework\\OwnerAPI_Middleware\\OwnerAPI_Middleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CANSEL BEKTAŞ\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\CANSEL BEKTAŞ\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CANSEL BEKTAŞ\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\CANSEL BEKTAŞ\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\CANSEL BEKTAŞ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\CANSEL BEKTAŞ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

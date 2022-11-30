@@ -1,0 +1,15 @@
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\bin\Debug\net5.0\RepositoryPattern.Business.deps.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\bin\Debug\net5.0\RepositoryPattern.Business.runtimeconfig.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\bin\Debug\net5.0\RepositoryPattern.Business.runtimeconfig.dev.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\bin\Debug\net5.0\RepositoryPattern.Business.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\bin\Debug\net5.0\RepositoryPattern.Business.pdb
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.csproj.AssemblyReference.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.AssemblyInfoInputs.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.AssemblyInfo.cs
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.csproj.CoreCompileInputs.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\refint\RepositoryPattern.Business.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.pdb
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\RepositoryPattern.Business.genruntimeconfig.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Business\obj\Debug\net5.0\ref\RepositoryPattern.Business.dll

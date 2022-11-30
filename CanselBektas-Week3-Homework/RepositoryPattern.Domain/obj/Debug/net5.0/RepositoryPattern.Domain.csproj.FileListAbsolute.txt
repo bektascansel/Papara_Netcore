@@ -1,0 +1,15 @@
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.deps.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.runtimeconfig.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.runtimeconfig.dev.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\refint\RepositoryPattern.Domain.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.genruntimeconfig.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Domain\obj\Debug\net5.0\ref\RepositoryPattern.Domain.dll

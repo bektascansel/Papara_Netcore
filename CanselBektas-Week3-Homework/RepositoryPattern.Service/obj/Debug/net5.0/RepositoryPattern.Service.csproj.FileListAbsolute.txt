@@ -1,0 +1,15 @@
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\bin\Debug\net5.0\RepositoryPattern.Service.deps.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\bin\Debug\net5.0\RepositoryPattern.Service.runtimeconfig.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\bin\Debug\net5.0\RepositoryPattern.Service.runtimeconfig.dev.json
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\bin\Debug\net5.0\RepositoryPattern.Service.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\bin\Debug\net5.0\RepositoryPattern.Service.pdb
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.csproj.AssemblyReference.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.AssemblyInfoInputs.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.AssemblyInfo.cs
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.csproj.CoreCompileInputs.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\refint\RepositoryPattern.Service.dll
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.pdb
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\RepositoryPattern.Service.genruntimeconfig.cache
+C:\Users\CANSEL BEKTAŞ\OneDrive\Masaüstü\CanselBektas-Week3\RepositoryPattern.Service\obj\Debug\net5.0\ref\RepositoryPattern.Service.dll

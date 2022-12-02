@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebApi_Dapper.Domain/1.0.0": {
+        "runtime": {
+          "WebApi_Dapper.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApi_Dapper.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApi_Dapper.Data\WebApi_Dapper.Data.csproj" />
+    <ProjectReference Include="..\WebApi_DApper.Domain\WebApi_Dapper.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

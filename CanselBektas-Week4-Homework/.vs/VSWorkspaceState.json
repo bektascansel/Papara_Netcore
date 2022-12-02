@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApi_Dapper",
+    "\\WebApi_Dapper.Services",
+    "\\WebApi_Dapper.Services\\AutoMapper"
+  ],
+  "SelectedNode": "\\WebApi_Dapper.Services\\AutoMapper\\AutoMapperProfile.cs",
+  "PreviewInSolutionExplorer": false
+}
